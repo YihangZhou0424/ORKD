@@ -1,4 +1,4 @@
-﻿# Multi-view contrastive learning for online knowledge distillation
+﻿# Online Relational Knowledge Distillation for Image Classification
 
 This project provides source code for official implementation of  Online Relational Knowledge Distillation (ORKD):
 
